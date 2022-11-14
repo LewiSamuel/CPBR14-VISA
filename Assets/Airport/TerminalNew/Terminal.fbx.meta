@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 2b664937979cc2545b545cb0767f74ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Glass
+    100002: Main
+    100004: //RootNode
+    100006: Door1
+    100008: Door10
+    100010: Door2
+    100012: Door3
+    100014: Door4
+    100016: Door5
+    100018: Door6
+    100020: Door7
+    100022: Door8
+    100024: Door9
+    100026: Gate1
+    100028: Gate2
+    100030: Gate3
+    100032: Table1
+    100034: Table2
+    100036: Table3
+    100038: Table4
+    100040: Table5
+    100042: Table6
+    100044: Table7
+    400000: Glass
+    400002: Main
+    400004: //RootNode
+    400006: Door1
+    400008: Door10
+    400010: Door2
+    400012: Door3
+    400014: Door4
+    400016: Door5
+    400018: Door6
+    400020: Door7
+    400022: Door8
+    400024: Door9
+    400026: Gate1
+    400028: Gate2
+    400030: Gate3
+    400032: Table1
+    400034: Table2
+    400036: Table3
+    400038: Table4
+    400040: Table5
+    400042: Table6
+    400044: Table7
+    2100000: Glass
+    2100002: GlassDel
+    2100004: WallsInsideTiled
+    2100006: WallsTiled
+    2100008: BlackMetal2
+    2100010: BlackMetal
+    2100012: BlackMetal3
+    2100014: Wood
+    2100016: FloorTiles
+    2100018: ConcreteTiled
+    2100020: BlackMetal4
+    2100022: Concrete
+    2100024: TowerMetal
+    2100026: RoofTiled
+    2100028: Metal
+    2100030: Decorations
+    2100032: WoodBeam
+    2100034: Ceiling
+    2100036: Gates
+    2100038: Furniture
+    2100040: RoofDetails
+    2100042: BricksNew
+    2100044: RoofCountTile
+    2100046: FloorWood
+    2100048: Furniture2
+    2100050: Glass.001
+    2300000: Glass
+    2300002: Main
+    2300004: Door1
+    2300006: Door10
+    2300008: Door2
+    2300010: Door3
+    2300012: Door4
+    2300014: Door5
+    2300016: Door6
+    2300018: Door7
+    2300020: Door8
+    2300022: Door9
+    2300024: Gate1
+    2300026: Gate2
+    2300028: Gate3
+    2300030: Table1
+    2300032: Table2
+    2300034: Table3
+    2300036: Table4
+    2300038: Table5
+    2300040: Table6
+    2300042: Table7
+    3300000: Glass
+    3300002: Main
+    3300004: Door1
+    3300006: Door10
+    3300008: Door2
+    3300010: Door3
+    3300012: Door4
+    3300014: Door5
+    3300016: Door6
+    3300018: Door7
+    3300020: Door8
+    3300022: Door9
+    3300024: Gate1
+    3300026: Gate2
+    3300028: Gate3
+    3300030: Table1
+    3300032: Table2
+    3300034: Table3
+    3300036: Table4
+    3300038: Table5
+    3300040: Table6
+    3300042: Table7
+    4300000: Glass
+    4300002: Main
+    4300004: Door3
+    4300006: Door7
+    4300008: Door5
+    4300010: Door6
+    4300012: Gate1
+    4300014: Gate2
+    4300016: Gate3
+    4300018: Door10
+    4300020: Door9
+    4300022: Door4
+    4300024: Door8
+    4300026: Table7
+    4300028: Table6
+    4300030: Table5
+    4300032: Table4
+    4300034: Table3
+    4300036: Table2
+    4300038: Table1
+    4300040: Door2
+    4300042: Door1
+    6400000: Glass
+    6400002: Main
+    6400004: Door1
+    6400006: Door10
+    6400008: Door2
+    6400010: Door3
+    6400012: Door4
+    6400014: Door5
+    6400016: Door6
+    6400018: Door7
+    6400020: Door8
+    6400022: Door9
+    6400024: Gate1
+    6400026: Gate2
+    6400028: Gate3
+    6400030: Table1
+    6400032: Table2
+    6400034: Table3
+    6400036: Table4
+    6400038: Table5
+    6400040: Table6
+    6400042: Table7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal
+    second: {fileID: 2100000, guid: 7dd215d701f15b142848bd0012db8bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal2
+    second: {fileID: 2100000, guid: faa5dd95025399b4d82ddb33155fa645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal3
+    second: {fileID: 2100000, guid: b39293281e482974da2de66b76f81ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackMetal4
+    second: {fileID: 2100000, guid: 64152a6ec181a5f4aae79969071b3fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BricksNew
+    second: {fileID: 2100000, guid: 18f7f4590366ab44fb4054a417be9eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: 971d76cf6c7b6ec4bb5e45e7ea97ccad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: f31c5b6ae93e3ed41b8c26972ec9bab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteTiled
+    second: {fileID: 2100000, guid: dc99d4896145dd04db818145e86547b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decorations
+    second: {fileID: 2100000, guid: 615b2993a73054b47be40c69bf7abbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorTiles
+    second: {fileID: 2100000, guid: d9e732afcc968cd49b3bf8a1904f67ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorWood
+    second: {fileID: 2100000, guid: e9316fb12b2123a4f96f04977ba92ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Furniture
+    second: {fileID: 2100000, guid: d5602bed91cbe7f46af045b7af8d4d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Furniture2
+    second: {fileID: 2100000, guid: 89183199f1f559c489441fae970489e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gates
+    second: {fileID: 2100000, guid: 7bd0a150248656f4d8677976c9d56732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 732af50fd4ad53348ace8d6cb728b279, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: e7652158ec834514ba21c534fcffdff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofCountTile
+    second: {fileID: 2100000, guid: b913bcbca68261e4f94ead3cf2927ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofDetails
+    second: {fileID: 2100000, guid: a287059ca319dc742b6c70108a9fb9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTiled
+    second: {fileID: 2100000, guid: 6c449d17cd552cc4bba7bf79bda5f570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TowerMetal
+    second: {fileID: 2100000, guid: 643187e7c9e7a0f48b7de8fa51f8b35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsInsideTiled
+    second: {fileID: 2100000, guid: 171b55c6190cbf64484786ab5b5e4d23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsTiled
+    second: {fileID: 2100000, guid: a113d362a5aa2e746a1f96314e36e4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: eff768099ed79c64f9c1d77e3adcd6bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodBeam
+    second: {fileID: 2100000, guid: 40421257b0adee24f8265e6229cb3581, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

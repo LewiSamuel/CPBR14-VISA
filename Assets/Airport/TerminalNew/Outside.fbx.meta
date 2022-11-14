@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 6d62d525079c6db43958c2b6c9b61d04
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fence
+    100004: Outside
+    100006: Stairs
+    100008: Fence.001
+    100010: Fence.002
+    100012: Fence.003
+    100014: Fence.004
+    100016: Fence.005
+    100018: Fence.006
+    100020: Fence.007
+    100022: Fence.008
+    100024: Fence.009
+    100026: Fence.010
+    100028: Fence.011
+    100030: Fence.012
+    100032: Fence.013
+    100034: Fence.014
+    100036: Fence.015
+    100038: Fence.016
+    100040: Fence.017
+    100042: Bench
+    100044: Stairs.001
+    100046: Outside.001
+    100048: Line
+    400000: //RootNode
+    400002: Fence
+    400004: Outside
+    400006: Stairs
+    400008: Fence.001
+    400010: Fence.002
+    400012: Fence.003
+    400014: Fence.004
+    400016: Fence.005
+    400018: Fence.006
+    400020: Fence.007
+    400022: Fence.008
+    400024: Fence.009
+    400026: Fence.010
+    400028: Fence.011
+    400030: Fence.012
+    400032: Fence.013
+    400034: Fence.014
+    400036: Fence.015
+    400038: Fence.016
+    400040: Fence.017
+    400042: Bench
+    400044: Stairs.001
+    400046: Outside.001
+    400048: Line
+    2100000: Border1
+    2100002: ConcreteClean
+    2100004: Grass
+    2100006: ConcreteAir
+    2100008: Border2
+    2100010: Fence
+    2100012: Grid
+    2100014: StairCar
+    2100016: Border
+    2100018: Bench
+    2100020: Line
+    2300000: //RootNode
+    2300002: Fence
+    2300004: Outside
+    2300006: Stairs
+    2300008: Fence.001
+    2300010: Fence.002
+    2300012: Fence.003
+    2300014: Fence.004
+    2300016: Fence.005
+    2300018: Fence.006
+    2300020: Fence.007
+    2300022: Fence.008
+    2300024: Fence.009
+    2300026: Fence.010
+    2300028: Fence.011
+    2300030: Fence.012
+    2300032: Fence.013
+    2300034: Fence.014
+    2300036: Fence.015
+    2300038: Fence.016
+    2300040: Fence.017
+    2300042: Bench
+    2300044: Stairs.001
+    2300046: Outside.001
+    2300048: Line
+    3300000: //RootNode
+    3300002: Fence
+    3300004: Outside
+    3300006: Stairs
+    3300008: Fence.001
+    3300010: Fence.002
+    3300012: Fence.003
+    3300014: Fence.004
+    3300016: Fence.005
+    3300018: Fence.006
+    3300020: Fence.007
+    3300022: Fence.008
+    3300024: Fence.009
+    3300026: Fence.010
+    3300028: Fence.011
+    3300030: Fence.012
+    3300032: Fence.013
+    3300034: Fence.014
+    3300036: Fence.015
+    3300038: Fence.016
+    3300040: Fence.017
+    3300042: Bench
+    3300044: Stairs.001
+    3300046: Outside.001
+    3300048: Line
+    4300000: Outside
+    4300002: Fence
+    4300004: Stairs
+    4300006: Fence.017
+    4300008: Fence.016
+    4300010: Fence.015
+    4300012: Fence.014
+    4300014: Fence.013
+    4300016: Fence.012
+    4300018: Fence.011
+    4300020: Fence.010
+    4300022: Fence.009
+    4300024: Fence.008
+    4300026: Fence.007
+    4300028: Fence.006
+    4300030: Fence.005
+    4300032: Fence.004
+    4300034: Fence.003
+    4300036: Fence.002
+    4300038: Fence.001
+    4300040: Stairs.001
+    4300042: Bench
+    4300044: Outside.001
+    4300046: Line
+    6400000: //RootNode
+    6400002: Fence
+    6400004: Outside
+    6400006: Stairs
+    6400008: Fence.001
+    6400010: Fence.002
+    6400012: Fence.003
+    6400014: Fence.004
+    6400016: Fence.005
+    6400018: Fence.006
+    6400020: Fence.007
+    6400022: Fence.008
+    6400024: Fence.009
+    6400026: Fence.010
+    6400028: Fence.011
+    6400030: Fence.012
+    6400032: Fence.013
+    6400034: Fence.014
+    6400036: Fence.015
+    6400038: Fence.016
+    6400040: Fence.017
+    6400042: Bench
+    6400044: Stairs.001
+    6400046: Outside.001
+    6400048: Line
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bench
+    second: {fileID: 2100000, guid: 79573ca254c41a14895318a9a37b8e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border
+    second: {fileID: 2100000, guid: 509b18d33934b3d46a64b1e2244b3f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border1
+    second: {fileID: 2100000, guid: 509b18d33934b3d46a64b1e2244b3f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border2
+    second: {fileID: 2100000, guid: 5ab39e95084ef5840bbcf69a7e21fce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteAir
+    second: {fileID: 2100000, guid: 0468344ea8834424689a7c27da2e2bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcreteClean
+    second: {fileID: 2100000, guid: 35d15bdaa47a3ce4680b52c02b274192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence
+    second: {fileID: 2100000, guid: 7ddbca17ebd7c984bb8f67a92dd0d20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 66cf7bea5fb71024391b8e920520308c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grid
+    second: {fileID: 2100000, guid: 9fdecc1091e7c9c499597807e12335c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line
+    second: {fileID: 2100000, guid: a8b84365092b4774aa62162f92b03ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StairCar
+    second: {fileID: 2100000, guid: 48538dff3fcd0884d9751d83e174e645, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
